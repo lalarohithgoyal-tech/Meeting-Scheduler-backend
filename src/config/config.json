@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "varsha",
+    "database": "meeting_scheduler",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
